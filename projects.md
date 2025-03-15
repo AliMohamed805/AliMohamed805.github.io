@@ -1,8 +1,3 @@
----
-layout: page
-title: "My Data Analysis Projects"
----
-
 ## 📊 Power BI & Excel Dashboards  
 ### **Sales Data Dashboard**  
 - **Tools Used:** Power BI, SQL  
