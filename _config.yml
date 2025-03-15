@@ -1,6 +1,3 @@
 title: "Ali Mohamed | Data Analyst Portfolio"
-description: "I'm a Data Analyst with expertise in SQL, Python, Power BI, and Excel. I love uncovering trends, solving problems with data, and building insightful dashboards."
-theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
-
+description: "Data Analyst skilled in SQL, Power BI, Excel, and Python. Passionate about transforming raw data into meaningful insights."
+theme: jekyll-theme-minimal
