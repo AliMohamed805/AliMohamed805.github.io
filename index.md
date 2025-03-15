@@ -1,9 +1,3 @@
----
-layout: home
-title: "Welcome to My Data Analysis Portfolio"
-author: "Ali Mohamed"
----
-
 # Hi, I'm Ali Mohamed 👋  
 I'm a Data Analyst passionate about using data to drive insights and decision-making.  
 
